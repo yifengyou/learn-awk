@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [读我](README.md)
 * [awk简介](docs/awk简介.md)
 * [awk基本语法](docs/awk基本语法.md)
 * [awk标准选项](docs/awk标准选项.md)

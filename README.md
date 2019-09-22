@@ -1,7 +1,7 @@
 # awk 基本功（Learn awk）
 
 ```
-上古神器；文本处理三剑客；文本格式化工具；报告生成器
+awk，gawk，nawk；上古神器；文本处理三剑客；文本格式化工具；报告生成器
 ```
 
 ![20190921_132224_72](image/20190921_132224_72.png)
@@ -73,6 +73,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ![20190921_131922_70](image/20190921_131922_70.png)
 
 * Awk Tutorial : <https://www.tutorialspoint.com/awk/index.htm>
+* Linux文本三剑客超详细教程 : <https://www.cnblogs.com/along21/p/10366886.html#auto_id_27>
 
 
 ## 小结
